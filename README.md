@@ -1,2 +1,2 @@
 # CS1
-CS1 - JavaScript Programming + HTML/CSS
+Course content for Computer Science 1 at Spring-Ford HS.
