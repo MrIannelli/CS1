@@ -1,2 +1,2 @@
 # CS1
-Course content for Computer Science 1 at Spring-Ford HS.
+Course content for Computer Science 1 -  JavaScript + HTML/CSS
