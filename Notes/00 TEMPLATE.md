@@ -20,6 +20,6 @@ Running this code will print the following messages to the console.
 
 ```
 CODE OUTPUT
-``````
+```
 
 WRAP UP TEXT

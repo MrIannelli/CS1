@@ -1,8 +1,4 @@
-let firstValue = "D&D";
-let secondValue = 18;
-console.log(firstValue);
-console.log(secondValue);
-firstValue = true;
-secondValue = null;
-console.log(firstValue);
-console.log(secondValue);
+let num1 = 17;
+let num2 = 3;
+let num3 = 4;
+console.log("The average of "+num1+" ,"+num2+", and"+num3+" is: "+(num1+num2+num3)/3);
