@@ -1,3 +1,4 @@
+//Define variables for 4 building blocks
 var one = "*   *";
 var two = "*****";
 var three = "*";

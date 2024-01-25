@@ -1,4 +1,8 @@
-let a = "Jeramie";
-console.log(a);
-a=9;
-console.log(a);
+let firstValue = "D&D";
+let secondValue = 18;
+console.log(firstValue);
+console.log(secondValue);
+firstValue = true;
+secondValue = null;
+console.log(firstValue);
+console.log(secondValue);
