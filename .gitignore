@@ -2,7 +2,7 @@
 Sample Code/
 
 #gitignore file
-gitignore
+.gitignore
 
 # Compiled source #
 ###################
