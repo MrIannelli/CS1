@@ -1,0 +1,6 @@
+# Ignore Sample Code Folder
+Sample Code/
+
+#Ignore hidden files
+*.
+
